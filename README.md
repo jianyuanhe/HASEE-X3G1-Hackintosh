@@ -1,4 +1,5 @@
 # (Hackintosh)神舟优雅X3G1 EFI
+## **After using this EFI to install the system, please use OCLP-mod to patch the Intel network and graphics.**
 
 ![](/pic/5a58ba6febe78cf6888f791cc71438a8.jpg)
 
